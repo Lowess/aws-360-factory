@@ -1,0 +1,5 @@
+- name: Provision an EC2 instance
+  hosts: localhost
+  connection: local
+  roles:
+     - role: ../../ansible-role-ec2
