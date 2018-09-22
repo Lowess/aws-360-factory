@@ -8,7 +8,7 @@ set -e
 
 export AWS_DEFAULT_PROFILE="ccm"
 
-EC2_KEYNAME="aws-360-factory"
+EC2_KEYNAME="aws-educate-student"
 EC2_SG="ops"
 
 EC2_INSTANCE_COUNT=1
