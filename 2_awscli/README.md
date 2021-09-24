@@ -1,6 +1,6 @@
 ## AWS-Cli
 
-The goal of this exercise is to start an EC2 instance using the `aws-cli`.
+The goal of this exercise is to start an EC2 instance using the `awscli`.
 
 * Install the AWS Cli following the [documentation](https://docs.aws.amazon.com/fr_fr/cli/latest/userguide/installing.html)
 
